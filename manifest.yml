@@ -1,6 +1,6 @@
 ---
 applications:
 - name: hello-spring-cloud
-  instances: 2
+  instances: 1
   host: hello-spring-cloud-rk
   path: target/hello-spring-cloud-0.0.1.BUILD-SNAPSHOT.jar
